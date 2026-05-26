@@ -13,17 +13,22 @@ AlgoVision Lab is an interactive algorithm visualization platform designed to he
 ## 🧠 Technologies Used
 
 - Python
-- Tkinter / Pygame / JavaScript
-- Data Structures & Algorithms
+- Matplotlib
+- Time Module
+- IPython Display
 
 ---
 
 ## 📊 Features
 
 - Sorting algorithm visualization
-- Step-by-step execution
-- Interactive controls
-- Real-time animation rendering
+- Bubble Sort visualization
+- Selection Sort visualization
+- Side-by-side comparison
+- Animation system
+- Runtime benchmarking
+- User-controlled speed
+- Dynamic graph rendering
 
 ---
 
@@ -37,9 +42,21 @@ AlgoVision Lab is an interactive algorithm visualization platform designed to he
 
 ---
 
+## 🌌 How It Works
+
+1. User enters numbers
+2. Algorithms process copies of the array
+3. Each sorting step is stored
+4. Matplotlib animates the sorting process
+5. Execution times are compared
+
+---
+
 ## 💬 Example Visualization
 
-User selects Quick Sort  
+User input array   
+↓  
+enters animation speed
 ↓  
 Array gets partitioned visually  
 ↓  
@@ -51,11 +68,14 @@ Sorted output generated with animation
 
 ## 🔮 Future Improvements
 
-- Graph algorithms visualization
 - Pathfinding simulations
-- Speed controls
 - Complexity comparison dashboard
 - Dark mode UI
+- Merge Sort visualization
+- Quick Sort visualization
+- Better UI
+- Color-based swap indicators
+- Sound effects
 
 ---
 
