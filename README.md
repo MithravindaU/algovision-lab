@@ -16,6 +16,7 @@ AlgoVision Lab is an interactive algorithm visualization platform designed to he
 - Matplotlib
 - Time Module
 - IPython Display
+- pandas 
 
 ---
 
